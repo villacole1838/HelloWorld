@@ -1,2 +1,5 @@
 # HelloWorld
-first repositor
+
+first repository on github
+
+I love :coffee: :pizza:, and :dancer:.
